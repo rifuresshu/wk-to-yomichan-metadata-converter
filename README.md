@@ -7,7 +7,7 @@ Example:
 ![popup example](resources/popup-example.png)
 
 ## Installation
-Ensure you have Python 3 installed (minimum supported version _should_ be 3.6) in order to be able to execute the script. Furthermore make sure that the [`requests` library](https://docs.python-requests.org) is installed (e.g. `pip install requests`). After that clone the repository or just download the script and execute it with Python.
+Ensure you have Python 3 installed (minimum supported version _should_ be 3.6) in order to be able to execute the script. Furthermore make sure that the [`requests` library](https://docs.python-requests.org) is installed (e.g. `pip install requests`). After that clone the repository or just [download the script](https://raw.githubusercontent.com/rifuresshu/wk-to-yomichan-metadata-converter/main/wk-to-yomichan.py) and execute it with Python.
 
 ## Usage
 In order to use this script, you need an account on Wanikani and an API key, which you can generate on [this page](https://www.wanikani.com/settings/personal_access_tokens). The API key does not need any extra permissions.  
